@@ -3,6 +3,7 @@
  * http://www.kennethcachia.com/shape-shifter
  * A canvas experiment
  */
+ /*保留原作者title  哈哈 */
 
 'use strict';
 
